@@ -1,0 +1,6 @@
+{
+  "name": "WeMakeSmile — Dental Clinic & Hospital",
+  "description": "Professional dental care focused on your comfort, oral health, and confident smiles. Advanced treatments, expert dental specialists, and seamless online appointments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
